@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sanja-misic.github.io/intro-component-with-signup-form--Fronten-mentor-challenge/)
 
 ## My process
 
@@ -52,5 +51,4 @@ Throughout this project, I took the opportunity to practice my existing skills.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Sanja Misic]([https://www.your-site.com](https://sanja-misic.github.io/My-portfolio-website/))
